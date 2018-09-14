@@ -21,10 +21,6 @@ import java.util.Map;
 
 import finalproject.mae.maptranslate.ImageTranslation.RETCONSTANT;
 
-/**
- * Created by Akash on 12/5/2017.
- */
-
 public class LanguageCode {
     List<String> languageName;
     List<String> languageCode;
